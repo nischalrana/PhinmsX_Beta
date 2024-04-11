@@ -12,9 +12,7 @@ at this point only been tested with 2.7.0sp1 and 2.8.02.  Plug-ins have
 not yet been tested "in situ" (e.g. in an actual PHIN-MS environment), but
 the basic receiver is functional including payload decryption.
 
-Availability:
-
-PhinmsX is currently available with full source code from 
+Main trunk copied from 
 https://github.com/tdunnick/PhinmsX.  You can also download a ZIP file
 version and view a demo at https://mywebspace.wisc.edu/tdunnick/web/phinmsx.
 
